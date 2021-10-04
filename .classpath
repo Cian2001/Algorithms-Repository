@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="wk2-algorithm-analysis/|compression-assignment/|compression-assignment/" kind="src" path=""/>
+	<classpathentry kind="src" path="wk2-algorithm-analysis"/>
+	<classpathentry excluding="Output/" kind="src" output="compression-assignment/Output" path="compression-assignment"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
